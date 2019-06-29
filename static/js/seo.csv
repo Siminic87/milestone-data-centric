@@ -1,0 +1,4 @@
+"id","page_authority","domain_authority","moz_rank","site","trust_score","equity_links","links","response_code"
+"1",65,90,"7","a.com","7","1000","1000","200"
+"2",90,97,"8","b.com","11","300","1000","200"
+"3",48,45,"9","c.com","5","2000","1000","301"

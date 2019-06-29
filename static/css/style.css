@@ -1,0 +1,70 @@
+.btn_small {
+    height: 24px;
+    width: 60px;
+    line-height: 24px;
+    margin: 5px 5px;
+    padding: 0 0.5em;
+}
+
+.task_header {
+    margin-top: 5px;
+}
+
+.btn-fix {
+    margin-top: 43px;
+    position: fixed;
+}
+
+.btn-margin {
+    margin-bottom: 5px;
+}
+
+p {
+    margin-bottom: 5px;
+}
+
+.logo-margin {
+  margin-left: 10px;
+}
+
+#tips-date .x.axis text, #upvotes-tip .x.axis text {
+    text-anchor: end !important;
+    transform: rotate(-45deg);
+}
+
+#upvotes-tip > svg:nth-child(2), #tips-date > svg:nth-child(2) {
+    height: 320px;
+}
+
+FOOTER CSS
+
+  body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
+  
+.submitLink {
+  background-color: transparent;
+  text-decoration: underline;
+  border: none;
+  color: blue;
+  cursor: pointer;
+}
+
+.submitLinkAll {
+  background-color: transparent;
+  text-decoration: underline;
+  border: none;
+  color: blue;
+  cursor: pointer;
+  margin-right: 5px;
+}
+
+submitLink:focus {
+  outline: none;
+}
